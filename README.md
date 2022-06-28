@@ -14,14 +14,13 @@
 ⦁═𝗤𝗨𝗘𝗘𝗡 👸 𝗔𝗟𝗘𝗫𝗔═⦁
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/ChamodKeshan/QueenAlexa/blob/main/Deploy.md)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
  <p align="center">
-<a href="https://github.com/ChamodKeshan/followers"><img title="Followers" src="https://img.shields.io/github/followers/ChamodKeshan?color=red&style=flat-square"></a>
-<a href="https://github.com/ChamodKeshan/QueenAlexa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ChamodKeshan/QueenAlexa?color=blue&style=flat-square"></a>
-<a href="https://github.com/ChamodKeshan/Queen-Alexa-MD/fork"><img title="Forks" src="https://img.shields.io/github/forks/ChamodKeshan/QueenAlexa?color=red&style=flat-square"></a>
-<a href="https://github.com/ChamodKeshan/QueenAlexa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ChamodKeshan/QueenAlexa?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/ChamodKeshan/QueenAlexa"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/ChamodKeshan/QueenAlexa/"><img title="Size" src="https://img.shields.io/github/repo-size/ChamodKeshan/QueenAlexa?style=flat-square&color=green"></a>
+<a href="https://github.com/En-cuzier/Queen-Alexa-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/En-cuzier/Queen-Alexa-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/En-cuzier/Queen-Alexa-MD/fork"><img title="Forks" src="https://img.shields.io/github/forks/En-cuzier/Queen-Alexa-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/En-cuzier/Queen-Alexa-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/En-cuzier/Queen-Alexa-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/En-cuzier/Queen-Alexa-MD"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/En-cuzier/Queen-Alexa-md/"><img title="Size" src="https://img.shields.io/github/repo-size/En-cuzier/Queen-Alexa-md?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEn-cuzier%2FQueen-Alexa-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/En-cuzier/Queen-Alexa-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
