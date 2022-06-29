@@ -38,6 +38,6 @@ Helper , Supporter , public module , Error fix , owner |
 [ChamodKeshan](https://github.com/ChamodKeshan)  |
 Helper , Supporter , creater , Error fix |
 
- [![Tony](https://github.com/ChamodKeshan/ChamodKeshan/blob/master/Profile/image/alexacon.jpeg?size=120)](https://github.com/Tonymark) |  
-[Tonymark](https://github.com/Tonymark)  |
+ [![Tony](https://github.com/Tornymark.png?size=120)](https://github.com/Tonymark) |  
+[Tutux](https://github.com/Tornymark)  |
 Helper , Supporter , Error fix , |
