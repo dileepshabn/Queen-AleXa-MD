@@ -6,7 +6,9 @@
 </p>
 <div align="center">
   <p align="center">
-  <a href="https://heroku.com/deploy"><img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
+
+![logo](https://telegra.ph/file/b373cf75c9fddb6721650.jpg)
+
 </p>    <a/>
 
   <a href="https://github.com/En-cuzier/Queen-Alexa-MD"><img src="https://img.shields.io/badge/QUEEN%20ALEXA-MD%20VERSIONS-brightgreen?style=flat-square&logo=appveyor">
