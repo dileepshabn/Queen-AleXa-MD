@@ -29,17 +29,19 @@
 <p align='center'>
     </p>
 
--------
-# 👨‍💻 Sponser & Supporter 👨‍💻
 
-[![En-cuzier](https://github.com/En-cuzier.png?size=120)](https://github.com/En-cuzier) |  
-----|
-[En-cuzier](https://github.com/En-cuzier)  |
-Helper , Supporter , public module , Error fix , owner |
-[![ChamodKeshan](https://github.com/ChamodKeshan.png?size=120)](https://github.com/ChamodKeshan) |  
-[ChamodKeshan](https://github.com/ChamodKeshan)  |
-Helper , Supporter , creater , Error fix |
+## 👨‍💻 Developers & Contributors 👨‍💻
 
- [![Tony](https://github.com/Tornymark.png?size=120)](https://github.com/Tonymark) |  
-[Tutux](https://github.com/Tornymark)  |
-Helper , Supporter , Error fix , |
+ [![EN-Cuzier](https://github.com/En-Cuzier.png?size=100)](https://github.com/En-Cuzier) | [![jesonpro](https://github.com/jesonpro.png?size=100)](https://github.com/jesonpro) | [![ChamodKeshan](https://github.com/ChamodKeshan.png?size=100)](https://github.com/En-Cuzier2) |
+----|----|----|
+[En-Cuzier](https://github.com/En-Cuzier)  | [TEENUH](https://github.com/jesonpro) | [ChamodKeshan](https://github.com/ChamodKeshan) |
+Author: Developer, Base, Bug Fixes, Commits, Modules | Contributor: Bug Fixes ( Minor )| Contributor: Modules |
+
+## ✨ Special Features ✨
+
+- [x] Alexa Voice Chatbot [ This is modified version amazon alexa ]
+
+- [x] simi simi chatbot
+
+- [ ] Replika chatbot
+
