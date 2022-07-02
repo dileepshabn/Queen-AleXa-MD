@@ -32,7 +32,7 @@
 
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
- [![EN-Cuzier](https://github.com/En-Cuzier.png?size=100)](https://github.com/En-Cuzier) | [![jesonpro](https://github.com/jesonpro.png?size=100)](https://github.com/jesonpro) | [![ChamodKeshan](https://github.com/ChamodKeshan.png?size=100)](https://github.com/En-Cuzier2) |
+ [![EN-Cuzier](https://github.com/En-Cuzier.png?size=100)](https://github.com/En-Cuzier) | [![jesonpro](https://github.com/jesonpro.png?size=100)](https://github.com/jesonpro) | [![ChamodKeshan](https://github.com/ChamodKeshan.png?size=100)](https://github.com/ChamodKeshan) |
 ----|----|----|
 [En-Cuzier](https://github.com/En-Cuzier)  | [TEENUH](https://github.com/jesonpro) | [ChamodKeshan](https://github.com/ChamodKeshan) |
 Author: Developer, Base, Bug Fixes, Commits, Modules | Contributor: Bug Fixes ( Minor )| Contributor: Modules |
