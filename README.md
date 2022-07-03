@@ -27,7 +27,15 @@
 <a href="https://github.com/En-cuzier/Queen-Alexa-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
-    </p>
+
+
+**╭──⦁ Install With Simple method ⦁──╮**
+
+
+# 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝙨𝙘𝙖𝙣💫
+
+   <a href="https://https://replit.com/@ChamodKeshan/QueenAlexa-MD?output%20only=1&lite=1"><img src="https://repl.it/badge/github/ChamodKeshan/Queen-Alexa">
+
 
 
 ## 👨‍💻 Developers & Contributors 👨‍💻
