@@ -7,9 +7,9 @@
 <div align="center">
   <p align="center">
 
-![logo](https://telegra.ph/file/b373cf75c9fddb6721650.jpg)
+ <a href="https://github.com/En-cuzier/Queen-Alexa-MD"><img src="https://telegra.ph/file/b373cf75c9fddb6721650.jpg">
 
-</p>    <a/>
+  </p>    <a/>
 
   <a href="https://github.com/En-cuzier/Queen-Alexa-MD"><img src="https://img.shields.io/badge/QUEEN%20ALEXA-MD%20VERSIONS-brightgreen?style=flat-square&logo=appveyor">
 
