@@ -36,7 +36,7 @@
 
    <a href="https://https://replit.com/@ChamodKeshan/QueenAlexa-MD?output%20only=1&lite=1"><img src="https://repl.it/badge/github/ChamodKeshan/Queen-Alexa">
 
-
+****Thanks to DGXeon Cheems bot qr replit.****
 
 ## 👨‍💻 Developers & Contributors 👨‍💻
 
