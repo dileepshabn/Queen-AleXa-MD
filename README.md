@@ -34,7 +34,7 @@
 
 # 🧚‍♀️𝘾𝙡𝙞𝙘𝙠 𝙃𝙚𝙧𝙚 𝙩𝙤 𝙨𝙘𝙖𝙣💫
 
-   <a href="https://https://replit.com/@ChamodKeshan/QueenAlexa-MD?output%20only=1&lite=1"><img src="https://repl.it/badge/github/ChamodKeshan/Queen-Alexa">
+   <a href="https://replit.com/@ChamodKeshan/QueenAlexa-MD?output%20only=1&lite=1"><img src="https://repl.it/badge/github/ChamodKeshan/Queen-Alexa">
 
 ****Thanks to DGXeon Cheems bot qr replit.****
 
